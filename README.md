@@ -1,0 +1,1 @@
+This Dapp has a bug in the add function that causes it to return incorrect results in certain cases. The bug is caused by an error in the way that the function handles floating point numbers. The bug has been fixed in the bugSolution.sol file.
